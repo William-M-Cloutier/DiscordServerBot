@@ -11,3 +11,4 @@ Bot has the following functionalities:
  -Managing the ranking system of members
  -Allowing owners easily manage their organization
  -Adding custom events
+ -
