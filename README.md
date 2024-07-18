@@ -1,4 +1,4 @@
-# DiscordServerBot
+# Organization Management Bot
 Bot created to manage an organization on discord consisting of over 300 members.
 
 Bot has the following functionalities:
